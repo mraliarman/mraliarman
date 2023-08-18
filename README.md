@@ -50,3 +50,9 @@
 <img src="https://raw.githubusercontent.com/mraliarman/mraliarman/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=mraliarman&theme=default" alt="Layout with last medium posts"  />
+</div>
+
+###
