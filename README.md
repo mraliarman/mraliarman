@@ -47,5 +47,3 @@
 
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/mraliarman/mraliarman/output/snake.svg" alt="Snake animation" />
