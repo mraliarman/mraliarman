@@ -77,7 +77,7 @@
 ---
 
 ### 🐍 Contribution Snake
-![Snake animation](https://github.com/mraliarman/mraliarman/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/mraliarman/mraliarman/main/dist/snake.svg)
 
 ---
 
