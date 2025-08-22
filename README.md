@@ -82,4 +82,4 @@
 ---
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Keep%20Coding%20⚡%20Keep%20Creating&fontAlign=50&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Keep%20Coding%20⚡%20Keep%20Creating&fontAlign=50&fontSize=40&section=footer" />
