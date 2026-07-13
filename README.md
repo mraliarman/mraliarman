@@ -8,8 +8,8 @@
 
 <br>
 
-<a href="https://aliarman.ir">
-  <img src="https://img.shields.io/badge/Portfolio-aliarman.ir-0F172A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" />
+<a href="https://fardadarman.ir">
+  <img src="https://img.shields.io/badge/Portfolio-fardadarman.ir-0F172A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" />
 </a>
 <a href="mailto:ali110arman@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2937" />
@@ -341,8 +341,8 @@ I mainly work with **Django**, **WordPress**, **Tailwind CSS**, **JavaScript**, 
 
 <div align="center">
 
-<a href="https://aliarman.ir">
-  <img src="https://img.shields.io/badge/Website-aliarman.ir-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="https://fardadarman.ir">
+  <img src="https://img.shields.io/badge/Website-fardadarman.ir-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="mailto:ali110arman@gmail.com">
   <img src="https://img.shields.io/badge/Email-ali110arman@gmail.com-1F2937?style=for-the-badge&logo=gmail&logoColor=white" />
