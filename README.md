@@ -1,134 +1,340 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./dist/light.svg">
+  <img src="./dist/dark.svg" alt="Ali Arman — Developer Profile" width="100%">
+</picture>
 
-<!-- ==================== ULTRA HYPER NEON README - LEVEL MAX ==================== -->
+<div align="center">
 
-<!-- 🌌 3D Neon Header + Particle Flow + Glitch + Glow -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&text=👋+Ali+Arman+%7C+Fullstack+Developer&fontSize=40&fontColor=00F7FF&animation=glitch" />
-<!-- ✨ Ultra Typing Animation (Multi-Line, Neon Glow + Concept Lines) -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=5000&color=00F7FF&center=true&vCenter=true&width=950&lines=🚀+Turning+Ideas+Into+Code;💡+Django+%7C+WordPress+%7C+Tailwind;🎨+Creative+Data+Art;🌌+Ultra+Hyper+3D+Neon;⚡+Next-Level+Programming+Experience" />
-</p>
+<br>
 
----
+<a href="https://aliarman.ir">
+  <img src="https://img.shields.io/badge/Portfolio-aliarman.ir-0F172A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" />
+</a>
+<a href="mailto:ali110arman@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2937" />
+</a>
+<a href="https://github.com/mraliarman">
+  <img src="https://img.shields.io/badge/GitHub-mraliarman-0B0F19?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" />
+</a>
+<a href="https://linkedin.com/in/mraliarman">
+  <img src="https://img.shields.io/badge/LinkedIn-Ali_Arman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B5CAD" />
+</a>
 
-### 👨‍💻 About Me
-- 🔭 Currently building **WordPress & Django projects**, including CRMs, E-commerce, and Plugins  
-- 🌱 Exploring **3D Data Visualization, UI/UX Innovations, and Hyper Neon Designs**  
-- 💡 Passionate about **Clean Code, Conceptual Programming, and Digital Art**  
-- 📝 Blogging & Tutorials: [aliarman.ir](https://aliarman.ir)  
-- 📫 Reach me at: **ali110arman@gmail.com**  
-- 🎯 Goal: Make **code a living art form**, interactive and visually appealing  
+<br>
+<br>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=920&lines=Full-Stack+Developer+focused+on+clean+digital+products;Django+%E2%80%A2+WordPress+%E2%80%A2+Tailwind+%E2%80%A2+JavaScript;Building+fast%2C+structured%2C+and+beautiful+web+experiences;Turning+business+ideas+into+scalable+software" alt="Typing SVG" />
 
-### 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,django,php,wordpress,git,github,figma,nodejs,react,mysql,postgres" height="110" />
-</p>
-
----
-
-### 📊 GitHub Ultra Stats + Concept Graphs
-<div align="center" style="display:flex; gap:25px; justify-content:center; flex-wrap:wrap;">
-<img src="https://github-readme-stats.vercel.app/api?username=mraliarman&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&text_color=00f7ff" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mraliarman&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=00f7ff" height="180" />
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mraliarman&theme=radical&hide_border=true&background=0d1117)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mraliarman&bg_color=0d1117&color=00f7ff&line=38b2ac&point=fdfdfd&area=true&hide_border=true)
+<br>
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
+## Executive Summary
+
+I’m **Ali Arman**, a full-stack developer building clean, scalable, and visually refined web products.
+
+My work sits between **backend engineering**, **CMS architecture**, and **frontend experience design**. I enjoy creating systems that are not only functional, but also structured, maintainable, and pleasant to use.
+
+I mainly work with **Django**, **WordPress**, **Tailwind CSS**, **JavaScript**, databases, dashboards, automation flows, and custom web platforms.
+
+<br>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Engineering Focus</h3>
+      <ul>
+        <li>Django applications and business dashboards</li>
+        <li>Custom WordPress themes and plugins</li>
+        <li>Database-driven platforms and admin systems</li>
+        <li>Clean backend logic and scalable structure</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>Product Focus</h3>
+      <ul>
+        <li>Modern responsive interfaces</li>
+        <li>Performance-aware frontend implementation</li>
+        <li>UI consistency and visual clarity</li>
+        <li>Better workflows for real users and businesses</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Core Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,php,wordpress,js,react,nodejs,html,css,tailwind,mysql,postgres,git,github,figma,vscode&perline=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/Django-111827?style=flat-square&logo=django&logoColor=22C55E" />
+<img src="https://img.shields.io/badge/WordPress-111827?style=flat-square&logo=wordpress&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=FACC15" />
+<img src="https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=60A5FA" />
+
+</div>
+
+---
+
+## Premium Development Services
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>01. Django Systems</h3>
+      <p>
+        Backend platforms, CRMs, dashboards, APIs, business workflows, admin panels,
+        authentication systems, reporting features, and database-driven products.
+      </p>
+    </td>
+    <td width="33%">
+      <h3>02. WordPress Engineering</h3>
+      <p>
+        Custom themes, plugin development, Gutenberg-ready layouts, optimized CMS architecture,
+        performance improvements, and flexible content management systems.
+      </p>
+    </td>
+    <td width="33%">
+      <h3>03. Frontend Experience</h3>
+      <p>
+        Responsive layouts, Tailwind design systems, interaction polish, clean UI implementation,
+        and user-focused product interfaces.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Featured Work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Django CRM Platform</h3>
+      <p>
+        A modular business management platform built with Django and relational database architecture.
+      </p>
+      <ul>
+        <li>Customer and workflow management</li>
+        <li>Admin dashboard and reporting</li>
+        <li>Scalable application structure</li>
+        <li>Business automation foundations</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Django-0F172A?style=for-the-badge&logo=django&logoColor=22C55E" />
+        <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FACC15" />
+        <img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=60A5FA" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Custom WordPress Theme</h3>
+      <p>
+        A performance-focused WordPress theme designed for clean content management and polished presentation.
+      </p>
+      <ul>
+        <li>Custom templates and components</li>
+        <li>Gutenberg-compatible structure</li>
+        <li>SEO-aware semantic markup</li>
+        <li>Optimized theme assets</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/WordPress-0F172A?style=for-the-badge&logo=wordpress&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=A78BFA" />
+        <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=FACC15" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>E-Commerce Experience</h3>
+      <p>
+        A modern storefront concept focused on product clarity, conversion flow, and fast interface design.
+      </p>
+      <ul>
+        <li>Responsive shopping interface</li>
+        <li>Checkout-ready architecture</li>
+        <li>Dynamic product and pricing logic</li>
+        <li>Clean Tailwind-based UI</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Django-0F172A?style=for-the-badge&logo=django&logoColor=22C55E" />
+        <img src="https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/Stripe-0F172A?style=for-the-badge&logo=stripe&logoColor=8B5CF6" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Creative Data Interface</h3>
+      <p>
+        An experimental direction focused on combining data visualization, interaction, and product storytelling.
+      </p>
+      <ul>
+        <li>Visual-first dashboard concepts</li>
+        <li>Interactive reporting components</li>
+        <li>Graphical data representation</li>
+        <li>Clean technical storytelling</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Data_UI-0F172A?style=for-the-badge&logo=databricks&logoColor=FF7A59" />
+        <img src="https://img.shields.io/badge/UX-0F172A?style=for-the-badge&logo=figma&logoColor=F472B6" />
+        <img src="https://img.shields.io/badge/Visualization-0F172A?style=for-the-badge&logo=chartdotjs&logoColor=FACC15" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mraliarman&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraliarman&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="185" src="https://streak-stats.demolab.com?user=mraliarman&theme=github-dark-blue&hide_border=true&border_radius=12" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mraliarman&bg_color=0d1117&color=58a6ff&line=22c55e&point=f8fafc&area=true&hide_border=true&radius=12" />
+
+</div>
+
+---
+
+## Capability Matrix
+Django Backend         ███████████████████░   92%
+WordPress Development  ██████████████████░░   88%
+Database Design        █████████████████░░░   84%
+Tailwind CSS           ████████████████░░░░   80%
+JavaScript             ██████████████░░░░░░   72%
+UI Implementation      ████████████████░░░░   81%
+Product Thinking       █████████████████░░░   86%
+
+---
+
+## My Engineering Principles
+
+<table>
+  <tr>
+<td width="25%">
+<h3>Clarity</h3>
+<p>Code, UI, and structure should be understandable without unnecessary complexity.</p>
+</td>
+<td width="25%">
+<h3>Performance</h3>
+<p>Fast interfaces and optimized systems create better product experiences.</p>
+</td>
+<td width="25%">
+<h3>Scalability</h3>
+<p>Projects should be built to grow without turning into fragile codebases.</p>
+</td>
+<td width="25%">
+<h3>Polish</h3>
+<p>Details matter. Strong products feel intentional in both code and design.</p>
+</td>
+  </tr>
+</table>
+
+---
+
+## Current Roadmap
+
+<table>
+  <tr>
+<th align="left">Track</th>
+<th align="left">Current Focus</th>
+<th align="left">Goal</th>
+  </tr>
+  <tr>
+<td><strong>Django</strong></td>
+<td>APIs, dashboards, admin systems, clean service structure</td>
+<td>Build stronger business platforms and internal tools</td>
+  </tr>
+  <tr>
+<td><strong>WordPress</strong></td>
+<td>Plugin architecture, Gutenberg blocks, advanced customization</td>
+<td>Create flexible and automation-friendly CMS solutions</td>
+  </tr>
+  <tr>
+<td><strong>Frontend</strong></td>
+<td>Tailwind systems, responsive layouts, interaction polish</td>
+<td>Deliver premium visual experiences with clean implementation</td>
+  </tr>
+  <tr>
+<td><strong>Creative Development</strong></td>
+<td>Data visualization, graphical interfaces, product storytelling</td>
+<td>Blend technical systems with strong visual communication</td>
+  </tr>
+</table>
+
+---
+
+## Contribution Snake
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/mraliarman/mraliarman/main/dist/snake.svg" style="filter: drop-shadow(0 0 30px #00F7FF) brightness(1.5)" />
-</p>
+</div>
 
 ---
 
-### 🚀 Featured Projects + Conceptual Impact
-| Project | Tech Stack | Concept & Impact |
-|---------|-----------|----------------|
-| Django CRM | Django, Python, MySQL | Real-time analytics, modular architecture, business automation |
-| WordPress Theme | WordPress, PHP, JS | Gutenberg blocks, theme performance, SEO optimization |
-| E-Commerce | Django, Tailwind, Stripe | Interactive UI, dynamic pricing, data-driven UX |
+## Philosophy
 
-<p align="center">
-<a href="https://aliarman.ir/project1"><img src="https://img.shields.io/badge/Django%20CRM-000?style=for-the-badge&logo=django&logoColor=00f7ff&labelColor=0f0f0f" /></a>
-<a href="https://aliarman.ir/project2"><img src="https://img.shields.io/badge/WordPress%20Theme-21759B?style=for-the-badge&logo=wordpress&logoColor=00f7ff&labelColor=0f0f0f" /></a>
-<a href="https://aliarman.ir/project3"><img src="https://img.shields.io/badge/ECommerce-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=00f7ff&labelColor=0f0f0f" /></a>
-</p>
+> I believe great software should feel calm, clear, and capable.  
+> Strong products are built where **engineering discipline**, **visual quality**, and **real user needs** meet.
 
 ---
 
-### 🌱 Skill Progress
-```
-Python      [##########........] 70%
-Django      [###########.......] 75%
-WordPress   [##########........] 70%
-Tailwind    [#########.........] 60%
-JavaScript  [########..........] 50%
-```
+## Connect With Me
 
-#### Artistic Progress Chart
-```
-   Python     Django     WP     Tailwind   JS
-    _          _         _        _       _
-   / \        / \       / \      / \     /   /   \      /   \     /   \    /   \   /   _/_____\____/_____\___/_____\__/_____\_/_____\_
-*High   ^Medium  -Low   .Learning /Improving
-```
+<div align="center">
 
----
+<a href="https://aliarman.ir">
+  <img src="https://img.shields.io/badge/Website-aliarman.ir-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="mailto:ali110arman@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ali110arman@gmail.com-1F2937?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/mraliarman">
+  <img src="https://img.shields.io/badge/LinkedIn-mraliarman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/mr_aliarman">
+  <img src="https://img.shields.io/badge/Instagram-mr__aliarman-18181B?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-### 🖥️ Conceptual Programming ASCII Art
+</div>
 
-           .-"`````"-.
-         .'           '.
-        /   .-"``"-.          |   /  _  _ \   |
-       |  |  (o)(o) |  |
-       |  |   .--.  |  |
-       |  |  (____) |  |
-       |   \        /   |
-        \   '-.__.-'   /
-         '.           .'
-           '-._____.-'
-     { Neon 3D Code Console }
-     _  _   _  _   _  _
-    | || | | || | | || |
-    | ||_| | ||_| | ||_|
-    |  __  |  __  |  __|
-    | |  | | |  | | |  |
-    |_|  |_|_|  |_|_|  |_|
-  "Code flows like energy streams, visual & alive"
+<br>
 
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=footer&text=Build%20with%20clarity.%20Ship%20with%20quality.&fontColor=58A6FF&fontSize=24&animation=fadeIn" />
 
-### 🌱 Learning & Future Roadmap
-| Area | Focus | Future Goal | Concept Chart |
-|------|-------|-------------|---------------|
-| WordPress | Plugins, Customization | AI & Automation | ![Progress](https://img.shields.io/badge/70%25-WordPress-brightgreen) |
-| Django | Dashboards, APIs | 3D Data Visualization | ![Progress](https://img.shields.io/badge/80%25-Django-blue) |
-| Frontend | Tailwind + JS Animations | Hyper UX + Storytelling | ![Progress](https://img.shields.io/badge/60%25-Frontend-yellow) |
-| Open Source | GitHub Contributions | Build Community Projects | ![Progress](https://img.shields.io/badge/50%25-OpenSource-red) |
+</div>
 
----
-
-### 🌱 Philosophy
-> 💡 "Every line of code is a seed.  
-> 🌌 Tomorrow, it becomes interactive, visual, and admired."  
-> 🎨 Programming is **visual art + digital storytelling + technical mastery**
-
----
-
-### 🌍 Connect with Me
-<p align="center">
-<a href="https://twitter.com/mraliarman" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0f0f0f" /></a>
-<a href="https://linkedin.com/in/mraliarman" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0f0f" /></a>
-<a href="https://fb.com/mraliarman" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0f0f0f" /></a>
-<a href="https://instagram.com/mr_aliarman" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0f0f" /></a>
-</p>
-
----
-
-<!-- 🌌 Ultra Hyper Neon Footer + 3D Glow + Particle Trail -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Keep+Coding+⚡+Keep+Creating&fontSize=50&section=footer&animation=glitch" />
