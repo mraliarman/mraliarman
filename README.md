@@ -24,7 +24,9 @@
 <br>
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=920&lines=Full-Stack+Developer+focused+on+clean+digital+products;Django+%E2%80%A2+WordPress+%E2%80%A2+Tailwind+%E2%80%A2+JavaScript;Building+fast%2C+structured%2C+and+beautiful+web+experiences;Turning+business+ideas+into+scalable+software" alt="Typing SVG" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=5000&color=00F7FF&center=true&vCenter=true&width=950&lines=🚀+Turning+Ideas+Into+Code;💡+Django+%7C+WordPress+%7C+Tailwind;🎨+Creative+Data+Art;🌌+Ultra+Hyper+3D+Neon;⚡+Next-Level+Programming+Experience" />
+</p>
 
 </div>
 
@@ -34,7 +36,7 @@
 
 ## Executive Summary
 
-I’m **Ali Arman**, a full-stack developer building clean, scalable, and visually refined web products.
+I’m **fardad Arman**, a full-stack developer building clean, scalable, and visually refined web products.
 
 My work sits between **backend engineering**, **CMS architecture**, and **frontend experience design**. I enjoy creating systems that are not only functional, but also structured, maintainable, and pleasant to use.
 
@@ -203,14 +205,7 @@ I mainly work with **Django**, **WordPress**, **Tailwind CSS**, **JavaScript**, 
 
 ## GitHub Analytics
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mraliarman&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraliarman&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
-<br>
 
 <div align="center">
 
@@ -226,18 +221,49 @@ I mainly work with **Django**, **WordPress**, **Tailwind CSS**, **JavaScript**, 
 
 </div>
 
----
+<div align="center">
 
-## Capability Matrix
-Django Backend         ███████████████████░   92%
-WordPress Development  ██████████████████░░   88%
-Database Design        █████████████████░░░   84%
-Tailwind CSS           ████████████████░░░░   80%
-JavaScript             ██████████████░░░░░░   72%
-UI Implementation      ████████████████░░░░   81%
-Product Thinking       █████████████████░░░   86%
+## ⚡ Capability Matrix
 
----
+<table width="100%">
+<tr>
+<td align="right"><b>Django Backend</b></td>
+<td><img src="https://geps.dev/progress/92?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6" /></td>
+<td><code>92%</code></td>
+</tr>
+<tr>
+<td align="right"><b>WordPress Development</b></td>
+<td><img src="https://geps.dev/progress/88?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6" /></td>
+<td><code>88%</code></td>
+</tr>
+<tr>
+<td align="right"><b>Product Thinking</b></td>
+<td><img src="https://geps.dev/progress/86?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6" /></td>
+<td><code>86%</code></td>
+</tr>
+<tr>
+<td align="right"><b>Database Design</b></td>
+<td><img src="https://geps.dev/progress/84?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6" /></td>
+<td><code>84%</code></td>
+</tr>
+<tr>
+<td align="right"><b>UI Implementation</b></td>
+<td><img src="https://geps.dev/progress/81?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6" /></td>
+<td><code>81%</code></td>
+</tr>
+<tr>
+<td align="right"><b>Tailwind CSS</b></td>
+<td><img src="https://geps.dev/progress/80?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6" /></td>
+<td><code>80%</code></td>
+</tr>
+<tr>
+<td align="right"><b>JavaScript</b></td>
+<td><img src="https://geps.dev/progress/72?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6" /></td>
+<td><code>72%</code></td>
+</tr>
+</table>
+
+</div>
 
 ## My Engineering Principles
 
