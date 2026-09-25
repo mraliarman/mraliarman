@@ -1,3 +1,8 @@
+<!--
+  Profile README
+  Professional engineering profile for business owners, technical leaders, and developers.
+-->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dist/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./dist/light.svg">
@@ -21,11 +26,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-Ali_Arman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B5CAD" />
 </a>
 
-<br>
-<br>
+<br><br>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=5000&color=00F7FF&center=true&vCenter=true&width=950&lines=🚀+Turning+Ideas+Into+Code;💡+Django+%7C+WordPress+%7C+Tailwind;🎨+Creative+Data+Art;🌌+Ultra+Hyper+3D+Neon;⚡+Next-Level+Programming+Experience" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4200&pause=900&color=00F7FF&center=true&vCenter=true&width=1050&lines=Full-Stack+Engineer+%7C+Django+%7C+WordPress;Business+Systems+%7C+Admin+Platforms+%7C+Automation;Backend+Architecture+%7C+Database+Design+%7C+UI+Implementation;Build+clearly.+Ship+reliably.+Improve+continuously." />
 </p>
 
 </div>
@@ -34,52 +38,83 @@
 
 ---
 
-## Executive Summary
+## 👋 About Me
 
-I’m **fardad Arman**, a full-stack developer building clean, scalable, and visually refined web products.
+I’m **Fardad Arman**, a full-stack engineer focused on building **business-oriented web systems, administration platforms, CMS solutions, and polished user interfaces**.
 
-My work sits between **backend engineering**, **CMS architecture**, and **frontend experience design**. I enjoy creating systems that are not only functional, but also structured, maintainable, and pleasant to use.
+My strongest areas are **Django/Python backend engineering**, **WordPress/PHP engineering**, **database-driven application architecture**, and **Tailwind-based frontend implementation**.
 
-I mainly work with **Django**, **WordPress**, **Tailwind CSS**, **JavaScript**, databases, dashboards, automation flows, and custom web platforms.
+I care about the structure behind the interface: clear models, predictable workflows, maintainable code, reliable admin tools, testable behavior, and a development process that can survive future changes.
 
-<br>
+### What I Build
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Engineering Focus</h3>
-      <ul>
-        <li>Django applications and business dashboards</li>
-        <li>Custom WordPress themes and plugins</li>
-        <li>Database-driven platforms and admin systems</li>
-        <li>Clean backend logic and scalable structure</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>Product Focus</h3>
-      <ul>
-        <li>Modern responsive interfaces</li>
-        <li>Performance-aware frontend implementation</li>
-        <li>UI consistency and visual clarity</li>
-        <li>Better workflows for real users and businesses</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| Area | What I work on |
+|---|---|
+| **Business Platforms** | CRMs, dashboards, booking systems, workflow-driven applications and internal tools |
+| **Django Engineering** | Models, admin systems, authentication, business logic, APIs, integrations and application architecture |
+| **WordPress Engineering** | Custom themes, plugins, reusable components, CMS architecture and WooCommerce-oriented development |
+| **Frontend Engineering** | Responsive interfaces, Tailwind CSS systems, HTML/CSS/JavaScript and interaction-focused UI |
+| **Automation & Tooling** | Development scripts, build workflows, reusable project standards and operational tooling |
+| **Product Engineering** | Turning business requirements into maintainable technical systems rather than isolated features |
 
 ---
 
-## Core Technologies
+## 🧭 Engineering Profile
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,php,wordpress,js,react,nodejs,html,css,tailwind,mysql,postgres,git,github,figma,vscode&perline=8" />
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+
+### Backend
+
+**Django / Python**
+
+Business logic, data models, admin platforms, authentication, integrations and application structure.
+
+</td>
+<td width="25%" align="center">
+
+### CMS
+
+**WordPress / PHP**
+
+Themes, plugins, WooCommerce workflows, reusable components and CMS architecture.
+
+</td>
+<td width="25%" align="center">
+
+### Frontend
+
+**Tailwind / JavaScript**
+
+Responsive interfaces, design systems, interaction details and production UI implementation.
+
+</td>
+<td width="25%" align="center">
+
+### Engineering
+
+**Git / Testing / Docs**
+
+Version control, CI-oriented workflows, debugging, standards, documentation and quality gates.
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br>
+---
+
+## 🛠️ Core Technologies
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,php,wordpress,js,html,css,tailwind,mysql,postgres,git,github,figma,vscode&perline=7" />
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FACC15" />
 <img src="https://img.shields.io/badge/Django-111827?style=flat-square&logo=django&logoColor=22C55E" />
@@ -89,123 +124,174 @@ I mainly work with **Django**, **WordPress**, **Tailwind CSS**, **JavaScript**, 
 <img src="https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=60A5FA" />
 <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F97316" />
+<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=FFFFFF" />
 
 </div>
 
+> **Primary stack:** Python · Django · PHP · WordPress · JavaScript · Tailwind CSS · SQL · Git/GitHub
+
 ---
 
-## Premium Development Services
+## 🚀 Selected Engineering Work
 
-<table>
-  <tr>
-    <td width="33%">
-      <h3>01. Django Systems</h3>
-      <p>
-        Backend platforms, CRMs, dashboards, APIs, business workflows, admin panels,
-        authentication systems, reporting features, and database-driven products.
-      </p>
-    </td>
-    <td width="33%">
-      <h3>02. WordPress Engineering</h3>
-      <p>
-        Custom themes, plugin development, Gutenberg-ready layouts, optimized CMS architecture,
-        performance improvements, and flexible content management systems.
-      </p>
-    </td>
-    <td width="33%">
-      <h3>03. Frontend Experience</h3>
-      <p>
-        Responsive layouts, Tailwind design systems, interaction polish, clean UI implementation,
-        and user-focused product interfaces.
-      </p>
-    </td>
-  </tr>
+### <code>robo</code> — Django Template & Theme Platform
+
+A Django-based platform for building and managing reusable web pages from modular blocks and templates.
+
+**Engineering focus**
+
+- Block-based page architecture
+- Template preview and composition workflows
+- Theme generation and reusable templates
+- Admin/profile workflows and demo experiences
+- Automated CSS build and frontend asset management
+- Backend and frontend regression testing
+- CI-oriented development and debugging
+
+**Stack:** <code>Python</code> <code>Django</code> <code>HTML</code> <code>Tailwind CSS</code> <code>JavaScript</code>
+
+> Private repository — production engineering work.
+
+---
+
+### <code>barber</code> — Booking & Appointment Management System
+
+A Django application focused on appointment-based business operations and customer workflows.
+
+**Engineering focus**
+
+- Customer and appointment management
+- Calendar-oriented scheduling workflows
+- Service and category management
+- Booking states and operational rules
+- Automated notification flows
+- Payment integration workflows
+- Admin-side operational tooling
+
+**Stack:** <code>Python</code> <code>Django</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>Stripe</code>
+
+> Private repository — production engineering work.
+
+---
+
+### <code>tik</code> — Django Engineering Workflow
+
+A Django/Tailwind codebase used as a practical environment for refining reusable development conventions and project-level engineering standards.
+
+**Engineering focus**
+
+- Django application structure
+- Automatic application and URL registration patterns
+- Automatic admin/model registration
+- Tailwind build workflows
+- Reusable development conventions
+- Project-level engineering documentation
+
+**Stack:** <code>Python</code> <code>Django</code> <code>Tailwind CSS</code> <code>JavaScript</code>
+
+> Private repository.
+
+---
+
+### <code>wordpress-standard</code> — Engineering Standards Repository
+
+A public engineering standards repository designed to turn development experience into **version-controlled, reviewable and reusable engineering practices**.
+
+**Covers**
+
+- PHP and WordPress standards
+- Tailwind CSS and frontend build practices
+- Security and performance
+- Debugging workflows
+- Git, commits, branches and pull requests
+- Release and QA checklists
+- SEO and operational practices
+- Controlled AI-assisted development
+
+**Repository:** [github.com/mraliarman/wordpress-standard](https://github.com/mraliarman/wordpress-standard)
+
+**Stack:** <code>PHP</code> <code>WordPress</code> <code>Tailwind CSS</code> <code>Git</code> <code>GitHub</code>
+
+---
+
+## 🧩 How I Approach Engineering
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 01 — Understand the System
+
+Before writing code, I try to understand:
+
+- The business workflow
+- The users and their actions
+- Existing architecture
+- Data relationships
+- Constraints and edge cases
+
+</td>
+<td width="50%" valign="top">
+
+### 02 — Design for Change
+
+The goal is not merely to make today’s feature work.
+
+I prefer structures that make the next feature, bug fix, integration or refactor easier to implement.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 — Make Quality Observable
+
+Quality should be visible through:
+
+- Tests
+- Reviewable changes
+- Clear naming
+- Predictable structure
+- Documentation
+- Repeatable build and release steps
+
+</td>
+<td width="50%" valign="top">
+
+### 04 — Polish the Product
+
+A technically correct system is only part of the job.
+
+I also care about responsive behavior, interaction details, consistency, accessibility-minded UI decisions and the clarity of the final workflow.
+
+</td>
+</tr>
 </table>
 
 ---
 
-## Featured Work
+## 🔐 Engineering Standards
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Django CRM Platform</h3>
-      <p>
-        A modular business management platform built with Django and relational database architecture.
-      </p>
-      <ul>
-        <li>Customer and workflow management</li>
-        <li>Admin dashboard and reporting</li>
-        <li>Scalable application structure</li>
-        <li>Business automation foundations</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Django-0F172A?style=for-the-badge&logo=django&logoColor=22C55E" />
-        <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FACC15" />
-        <img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=60A5FA" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Custom WordPress Theme</h3>
-      <p>
-        A performance-focused WordPress theme designed for clean content management and polished presentation.
-      </p>
-      <ul>
-        <li>Custom templates and components</li>
-        <li>Gutenberg-compatible structure</li>
-        <li>SEO-aware semantic markup</li>
-        <li>Optimized theme assets</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/WordPress-0F172A?style=for-the-badge&logo=wordpress&logoColor=38BDF8" />
-        <img src="https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=A78BFA" />
-        <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=FACC15" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>E-Commerce Experience</h3>
-      <p>
-        A modern storefront concept focused on product clarity, conversion flow, and fast interface design.
-      </p>
-      <ul>
-        <li>Responsive shopping interface</li>
-        <li>Checkout-ready architecture</li>
-        <li>Dynamic product and pricing logic</li>
-        <li>Clean Tailwind-based UI</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Django-0F172A?style=for-the-badge&logo=django&logoColor=22C55E" />
-        <img src="https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
-        <img src="https://img.shields.io/badge/Stripe-0F172A?style=for-the-badge&logo=stripe&logoColor=8B5CF6" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Creative Data Interface</h3>
-      <p>
-        An experimental direction focused on combining data visualization, interaction, and product storytelling.
-      </p>
-      <ul>
-        <li>Visual-first dashboard concepts</li>
-        <li>Interactive reporting components</li>
-        <li>Graphical data representation</li>
-        <li>Clean technical storytelling</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Data_UI-0F172A?style=for-the-badge&logo=databricks&logoColor=FF7A59" />
-        <img src="https://img.shields.io/badge/UX-0F172A?style=for-the-badge&logo=figma&logoColor=F472B6" />
-        <img src="https://img.shields.io/badge/Visualization-0F172A?style=for-the-badge&logo=chartdotjs&logoColor=FACC15" />
-      </p>
-    </td>
-  </tr>
-</table>
+My development workflow increasingly treats **security, maintainability and repeatability as engineering requirements**, not optional extras.
+
+- Clear project and file structure
+- Small, reviewable changes
+- Explicit dependencies
+- Secure handling of secrets and user input
+- Database-aware application design
+- Testable business logic
+- CI and build validation where appropriate
+- Documentation for important architectural decisions
+- Git workflows that preserve a traceable development history
+
+My public engineering standards are documented in:
+
+**[<code>mraliarman/wordpress-standard</code>](https://github.com/mraliarman/wordpress-standard)**
 
 ---
 
-## GitHub Analytics
-
-
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -221,123 +307,53 @@ I mainly work with **Django**, **WordPress**, **Tailwind CSS**, **JavaScript**, 
 
 </div>
 
-<div align="center">
-
-## ⚡ Capability Matrix
-
-<table width="100%">
-<tr>
-<td align="right"><b>Django Backend</b></td>
-<td><img src="https://geps.dev/progress/92?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6" /></td>
-<td><code>92%</code></td>
-</tr>
-<tr>
-<td align="right"><b>WordPress Development</b></td>
-<td><img src="https://geps.dev/progress/88?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6" /></td>
-<td><code>88%</code></td>
-</tr>
-<tr>
-<td align="right"><b>Product Thinking</b></td>
-<td><img src="https://geps.dev/progress/86?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6" /></td>
-<td><code>86%</code></td>
-</tr>
-<tr>
-<td align="right"><b>Database Design</b></td>
-<td><img src="https://geps.dev/progress/84?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6" /></td>
-<td><code>84%</code></td>
-</tr>
-<tr>
-<td align="right"><b>UI Implementation</b></td>
-<td><img src="https://geps.dev/progress/81?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6" /></td>
-<td><code>81%</code></td>
-</tr>
-<tr>
-<td align="right"><b>Tailwind CSS</b></td>
-<td><img src="https://geps.dev/progress/80?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6" /></td>
-<td><code>80%</code></td>
-</tr>
-<tr>
-<td align="right"><b>JavaScript</b></td>
-<td><img src="https://geps.dev/progress/72?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6" /></td>
-<td><code>72%</code></td>
-</tr>
-</table>
-
-</div>
-
-## My Engineering Principles
-
-<table>
-  <tr>
-<td width="25%">
-<h3>Clarity</h3>
-<p>Code, UI, and structure should be understandable without unnecessary complexity.</p>
-</td>
-<td width="25%">
-<h3>Performance</h3>
-<p>Fast interfaces and optimized systems create better product experiences.</p>
-</td>
-<td width="25%">
-<h3>Scalability</h3>
-<p>Projects should be built to grow without turning into fragile codebases.</p>
-</td>
-<td width="25%">
-<h3>Polish</h3>
-<p>Details matter. Strong products feel intentional in both code and design.</p>
-</td>
-  </tr>
-</table>
-
 ---
 
-## Current Roadmap
-
-<table>
-  <tr>
-<th align="left">Track</th>
-<th align="left">Current Focus</th>
-<th align="left">Goal</th>
-  </tr>
-  <tr>
-<td><strong>Django</strong></td>
-<td>APIs, dashboards, admin systems, clean service structure</td>
-<td>Build stronger business platforms and internal tools</td>
-  </tr>
-  <tr>
-<td><strong>WordPress</strong></td>
-<td>Plugin architecture, Gutenberg blocks, advanced customization</td>
-<td>Create flexible and automation-friendly CMS solutions</td>
-  </tr>
-  <tr>
-<td><strong>Frontend</strong></td>
-<td>Tailwind systems, responsive layouts, interaction polish</td>
-<td>Deliver premium visual experiences with clean implementation</td>
-  </tr>
-  <tr>
-<td><strong>Creative Development</strong></td>
-<td>Data visualization, graphical interfaces, product storytelling</td>
-<td>Blend technical systems with strong visual communication</td>
-  </tr>
-</table>
-
----
-
-## Contribution Snake
+## 🐍 Contribution Activity
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/mraliarman/mraliarman/main/dist/snake.svg" style="filter: drop-shadow(0 0 30px #00F7FF) brightness(1.5)" />
+
+<img src="https://raw.githubusercontent.com/mraliarman/mraliarman/main/dist/snake.svg" width="100%" alt="GitHub contribution snake animation" style="filter: drop-shadow(0 0 30px #00F7FF) brightness(1.5)" />
+
+<br>
+
+<sub>Every contribution represents another iteration of the engineering process.</sub>
+
 </div>
 
 ---
 
-## Philosophy
+## 🎯 Current Focus
 
-> I believe great software should feel calm, clear, and capable.  
-> Strong products are built where **engineering discipline**, **visual quality**, and **real user needs** meet.
+| Track | Focus |
+|---|---|
+| **Django** | Business platforms, admin systems, application architecture, automation and integrations |
+| **WordPress** | Plugin/theme engineering, reusable architecture, WooCommerce and CMS customization |
+| **Frontend** | Tailwind CSS, responsive systems, interaction quality and design implementation |
+| **Engineering Systems** | Standards, testing, CI, documentation and repeatable development workflows |
+| **Product Engineering** | Building software around real business processes rather than isolated technical features |
 
 ---
 
-## Connect With Me
+## 📌 What Business Owners Can Expect
+
+- **Business-first thinking:** technical decisions are connected to actual workflows and operational needs.
+- **Maintainable systems:** the objective is not only delivery, but a codebase that can continue evolving.
+- **Clear communication:** requirements, constraints and implementation decisions should remain understandable.
+- **Attention to detail:** backend behavior and frontend experience are treated as parts of the same product.
+- **Long-term ownership:** architecture, documentation, debugging and future changes matter alongside the initial release.
+
+---
+
+## 💬 Engineering Philosophy
+
+> Great software should be **clear enough to understand, structured enough to evolve, and polished enough to trust**.
+>
+> I aim to build where **engineering discipline, product thinking, and visual quality** meet.
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -363,4 +379,3 @@ I mainly work with **Django**, **WordPress**, **Tailwind CSS**, **JavaScript**, 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=footer&text=Build%20with%20clarity.%20Ship%20with%20quality.&fontColor=58A6FF&fontSize=24&animation=fadeIn" />
 
 </div>
-
