@@ -38,6 +38,51 @@
 
 ---
 
+## ⚡ Engineering Snapshot
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/BACKEND-Django%20%2F%20Python-0d1117?style=for-the-badge&logo=django&logoColor=44B78B" />
+
+**Business Logic**  
+Models · Admin · APIs · Integrations
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/CMS-WordPress%20%2F%20PHP-0d1117?style=for-the-badge&logo=wordpress&logoColor=21759B" />
+
+**CMS Engineering**  
+Themes · Plugins · WooCommerce
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/UI-Tailwind%20%2F%20JS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+
+**Frontend**  
+Responsive UI · Interaction · Systems
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/QUALITY-Git%20%2F%20CI-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+
+**Engineering**  
+Testing · Standards · Debugging
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
 ## 👋 About Me
 
 I’m **Fardad Arman**, a full-stack engineer focused on building **business-oriented web systems, administration platforms, CMS solutions, and polished user interfaces**.
@@ -135,85 +180,18 @@ Version control, CI-oriented workflows, debugging, standards, documentation and 
 
 ## 🚀 Selected Engineering Work
 
-### <code>robo</code> — Django Template & Theme Platform
+<div align="center">
 
-A Django-based platform for building and managing reusable web pages from modular blocks and templates.
+| | Project | Engineering Scope |
+|:---:|:---|:---|
+| 🧱 | **[robo](https://github.com/mraliarman/robo)** | Django template builder · modular blocks · theme generation · admin workflows · CSS build · testing |
+| ✂️ | **[barber](https://github.com/mraliarman/barber)** | Booking engine · calendar · services · appointment states · notifications · payment workflows |
+| ⚙️ | **[tik](https://github.com/mraliarman/tik)** | Django conventions · auto registration · admin/model patterns · Tailwind build workflow |
+| 📚 | **[wordpress-standard](https://github.com/mraliarman/wordpress-standard)** | PHP/WordPress standards · security · performance · Git · QA · release workflows |
 
-**Engineering focus**
+</div>
 
-- Block-based page architecture
-- Template preview and composition workflows
-- Theme generation and reusable templates
-- Admin/profile workflows and demo experiences
-- Automated CSS build and frontend asset management
-- Backend and frontend regression testing
-- CI-oriented development and debugging
-
-**Stack:** <code>Python</code> <code>Django</code> <code>HTML</code> <code>Tailwind CSS</code> <code>JavaScript</code>
-
-> Private repository — production engineering work.
-
----
-
-### <code>barber</code> — Booking & Appointment Management System
-
-A Django application focused on appointment-based business operations and customer workflows.
-
-**Engineering focus**
-
-- Customer and appointment management
-- Calendar-oriented scheduling workflows
-- Service and category management
-- Booking states and operational rules
-- Automated notification flows
-- Payment integration workflows
-- Admin-side operational tooling
-
-**Stack:** <code>Python</code> <code>Django</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>Stripe</code>
-
-> Private repository — production engineering work.
-
----
-
-### <code>tik</code> — Django Engineering Workflow
-
-A Django/Tailwind codebase used as a practical environment for refining reusable development conventions and project-level engineering standards.
-
-**Engineering focus**
-
-- Django application structure
-- Automatic application and URL registration patterns
-- Automatic admin/model registration
-- Tailwind build workflows
-- Reusable development conventions
-- Project-level engineering documentation
-
-**Stack:** <code>Python</code> <code>Django</code> <code>Tailwind CSS</code> <code>JavaScript</code>
-
-> Private repository.
-
----
-
-### <code>wordpress-standard</code> — Engineering Standards Repository
-
-A public engineering standards repository designed to turn development experience into **version-controlled, reviewable and reusable engineering practices**.
-
-**Covers**
-
-- PHP and WordPress standards
-- Tailwind CSS and frontend build practices
-- Security and performance
-- Debugging workflows
-- Git, commits, branches and pull requests
-- Release and QA checklists
-- SEO and operational practices
-- Controlled AI-assisted development
-
-**Repository:** [github.com/mraliarman/wordpress-standard](https://github.com/mraliarman/wordpress-standard)
-
-**Stack:** <code>PHP</code> <code>WordPress</code> <code>Tailwind CSS</code> <code>Git</code> <code>GitHub</code>
-
----
+<br>
 
 ## 🧩 How I Approach Engineering
 
@@ -295,15 +273,16 @@ My public engineering standards are documented in:
 
 <div align="center">
 
-<img height="185" src="https://streak-stats.demolab.com?user=mraliarman&theme=github-dark-blue&hide_border=true&border_radius=12" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mraliarman&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraliarman&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
 
-</div>
+<br><br>
 
-<br>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mraliarman&bg_color=0d1117&color=58a6ff&line=00f7ff&point=ffffff&area=true&hide_border=true&radius=12" />
 
-<div align="center">
+<br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mraliarman&bg_color=0d1117&color=58a6ff&line=22c55e&point=f8fafc&area=true&hide_border=true&radius=12" />
+<img src="https://streak-stats.demolab.com?user=mraliarman&theme=github-dark-blue&hide_border=true&border_radius=12" />
 
 </div>
 
